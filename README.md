@@ -7,7 +7,7 @@ This is a streaming project Which stream the video.
 4. Edit Stream.<br>
 5. Delete Stream.<br>
 
-<img src = "https://github.com/ravimaurya1/Stream/tree/master/img/1.png">
+<img src = "https://github.com/ravimaurya1/Stream/blob/master/img/1.png?raw=true">
 
 
 <h4>Used </h4>
