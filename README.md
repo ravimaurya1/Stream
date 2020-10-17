@@ -1,5 +1,9 @@
 This is a streaming project Which stream the video.
 
+
+api folder implement json server using nodejs<br>
+rtmpserver folder implement node-media-server using nodejs<br>
+
 <h4>Feature</h4>
 1. Login using Google Auth..<br>
 2. Create Stream.<br>
