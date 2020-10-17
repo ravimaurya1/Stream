@@ -18,5 +18,6 @@ rtmpserver folder implement node-media-server using nodejs<br>
 
 <h4>Used </h4>
 1. React JS (FrontEnd)<br>
-2. Json server(backend)<br>
+2. Node js <br>
+2. Json server (for database)<br>
 3. Node-media-server (rtmp server to stream video)<br>
