@@ -6,9 +6,11 @@ This is a streaming project Which stream the video.
 3. Watch Stream<br>
 4. Edit Stream.<br>
 5. Delete Stream.<br>
-
+<br>
 <img src = "https://github.com/ravimaurya1/Stream/blob/master/img/1.png?raw=true">
-
+<br>
+<img src = "https://github.com/ravimaurya1/Stream/blob/master/img/2.png?raw=true">
+<br>
 
 <h4>Used </h4>
 1. React JS (FrontEnd)<br>
